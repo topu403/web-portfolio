@@ -4,7 +4,6 @@ body{
 }
 h1{
     font-size: 50px;
-
 }
 h2{
     font-size: 40px;
@@ -66,6 +65,10 @@ background-position: right;
     border-image: linear-gradient(180deg,blue, cyan);
     border-image-slice: 1;
 }
+
+/* -------------------------------
+    footer styles start here
+------------------------ */
 footer{
     text-align: center;
     font-size: 12px;
